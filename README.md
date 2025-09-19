@@ -11,15 +11,15 @@
 
 - 👩‍🎓 B.Tech in IT @ *Shri Vishnu Engineering College for Women*, CGPA: 9.39  
 - 📍 From: *Bhimavaram, Andhra Pradesh*
-- 🧠 I’m currently learning *Java Developer,Machine Learning, **Full Stack Development, **Problem Solver* , and *AI in Space Tech*
+- 🧠 I’m currently learning *Java Development, Machine Learning, Full Stack Development, Problem Solving, and AI in Space Tech*
 - 🚀 I recently worked on:
   - 🔹 [Travel World](https://github.com/MALEKUSUMA/Travelworld)
-  - 🔹 [Colleeg Online Voting System](https://github.com/MALEKUSUMA/collegeVoting)
+  - 🔹 [College Online Voting System](https://github.com/MALEKUSUMA/collegeVoting)
   - 🔹 [Automatic Number Plate Recogniton](https://github.com/MALEKUSUMA/APNR)
 - 🌱 Coordinator of the EFA , leading initiatives and projects toward sustainable development goals..
 - 🏆 Certified in ML,JAVA,REACT  
 - 💬 Ask me about Java, Python, AI/ML, SQL, Problem Solver, or Web Dev
-- 📫 Reach me at: *malekusuma2@gmail.com@*
+- 📫 Reach me at: *malekusuma2@gmail.com*
 
 ---
 
@@ -57,7 +57,7 @@
   
 ### AI/ML & Data Science Development<br>
 <p>
-   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" /> 
    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> 
    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> 
@@ -92,7 +92,7 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-Male%20Kusuma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Male-Kusuma-475023257/)](https://www.linkedin.com/in/kusuma-male-989951256/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Male%20Kusuma-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kusuma-male-989951256/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/MALEKUSUMA)
 
 ---
@@ -105,7 +105,7 @@
 - 🌱 **[College Online Voting System](https://github.com/MALEKUSUMA/collegeVoting)**  
   A secure web-based voting system enabling student authentication, candidate nomination/voting, and real-time result monitoring
   
-  -🔍 **[Automatic Number Plate Recognito](https://github.com/MALEKUSUMA/APNR)** 
+- 🔍 **[Automatic Number Plate Recogniton](https://github.com/MALEKUSUMA/APNR)** 
      An AI-powered system using YOLO and EasyOCR to detect and extract license plate information from images and videos with accurate timestamping.
   
   
